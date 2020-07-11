@@ -1,0 +1,103 @@
+
+.img-wrap {
+  display: flex;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+    height: 200px; 
+    width: 1920px; 
+    text-align: center;
+}
+
+.img-wrap h1 {
+
+ font-weight: bolt;
+  font-size: 50px; 
+  position: absolute;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.img-responsive {
+
+  
+  height: 200px; 
+    width: 100%; 
+}
+.textHeader{
+  font-family: Comic Sans MS;
+  font-size: 53px;
+  font-weight: bold;
+  color: #062D2D;
+  text-shadow: 
+    -0   -3px 2px #00AEFF,
+     0   -3px 2px #00AEFF,
+    -0    3px 2px #00AEFF,
+     0    3px 2px #00AEFF,
+    -3px -0   2px #00AEFF,
+     3px -0   2px #00AEFF,
+    -3px  0   2px #00AEFF,
+     3px  0   2px #00AEFF,
+    -1px -3px 2px #00AEFF,
+     1px -3px 2px #00AEFF,
+    -1px  3px 2px #00AEFF,
+     1px  3px 2px #00AEFF,
+    -3px -1px 2px #00AEFF,
+     3px -1px 2px #00AEFF,
+    -3px  1px 2px #00AEFF,
+     3px  1px 2px #00AEFF,
+    -2px -3px 2px #00AEFF,
+     2px -3px 2px #00AEFF,
+    -2px  3px 2px #00AEFF,
+     2px  3px 2px #00AEFF,
+    -3px -2px 2px #00AEFF,
+     3px -2px 2px #00AEFF,
+    -3px  2px 2px #00AEFF,
+     3px  2px 2px #00AEFF,
+    -3px -3px 2px #00AEFF,
+     3px -3px 2px #00AEFF,
+    -3px  3px 2px #00AEFF,
+     3px  3px 2px #00AEFF,
+    -3px -3px 2px #00AEFF,
+     3px -3px 2px #00AEFF,
+    -3px  3px 2px #00AEFF,
+     3px  3px 2px #00AEFF;
+}
+.container{
+  display: flex;
+  align-items: center;
+  position: absolute;
+  
+}
+h2 {
+
+
+  color:black;
+}
+.post-item{
+  
+  margin-left: 300px;
+
+}
+#Postarea{
+  width: 510px;
+  height: 400px;
+  resize: none;
+}
+.Buttons {
+  align-items: center;
+  position: absolute;
+  display: flex;
+
+}
+.Formpost {
+  
+  position: absolute;
+  padding: 30px;
+  top: 230px;
+ align-items: center;
+  
+
+}
